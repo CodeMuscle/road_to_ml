@@ -1,2 +1,2 @@
 # road_to_ml
-A bunch of python codes that was made during my first few months with Machine Learning with Python!
+A bunch of python codes that were made during my first few weeks with Machine Learning!
